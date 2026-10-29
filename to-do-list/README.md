@@ -1,5 +1,4 @@
-# Mini Rust Project: CLI Task Manager
-
+# Mini Rust Project: CLI To-Do List
 A lightweight, terminal-based Task Management application written in Rust. This mini-project demonstrates core systems-programming concepts, clean data modeling, and robust user-input handling without any external crate dependencies.
 
 ---
